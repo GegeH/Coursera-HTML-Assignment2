@@ -1,8 +1,12 @@
 # HTML/CSS - Module 2 - Assignment
 HTML, CSS, and Javascript for Web Developers 
+
 Coursera Online Course
+
 Assignment of Week 2
+
 Jul 4, 2016 - Aug 15, 2016
+
 Johns Hopkins University
 
 ### Common Git Commands
