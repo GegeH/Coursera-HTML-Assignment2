@@ -1,6 +1,6 @@
 # HTML, CSS, and Javascript for Web Developers
 Coursera Online Course          
-AssiJohns Hopkins University                
+Johns Hopkins University                
 Jul 4, 2016 - Aug 15, 2016       
 
 ### Common Git Commands
